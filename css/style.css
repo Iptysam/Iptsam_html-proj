@@ -1,0 +1,11 @@
+#bb{
+    background-color: rgb(177, 177, 177);
+}
+#header-image{
+    width: auto;
+    background-color: rgb(255, 112, 112);
+}
+.image{
+    width: 400px;
+    margin: 0 auto;
+}
