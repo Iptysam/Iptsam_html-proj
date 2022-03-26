@@ -4,8 +4,52 @@
 #header-image{
     width: auto;
     background-color: rgb(255, 112, 112);
+    
 }
 .image{
     width: 400px;
     margin: 0 auto;
 }
+
+iframe{
+    display: block;
+    margin: 0 auto;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 20px;
+    list-style-type: none;
+    text-align: center;
+    padding: 10px;
+    background-color:brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    }
+      
+
+
+li a {
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 9px 100px;
+    background-color: burlywood;
+  }
+  
+  li a:hover {
+    color: white;
+  }
+  
+  nav {
+  position: top;
+  top: 0;
+  width: 100%;
+  }
+
+  @media screen and (max-width: 992px) {
+    body {
+      background-color: blue;
+    }
+  }
