@@ -1,12 +1,12 @@
-#bb{
+#header{
     background-color: rgb(177, 177, 177);
 }
-#header-image{
+#header-img{
     width: auto;
     background-color: rgb(255, 112, 112);
-    
+    text-align: center;
 }
-.image{
+.IMG{
     width: 400px;
     margin: 0 auto;
 }
